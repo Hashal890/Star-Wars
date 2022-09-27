@@ -7,6 +7,7 @@ Hello everyone, here is my Star Wars characters searching app project which I bu
 
 - Search any star wars character.
 - Background effect.
+- Debouncing feature
 - Responsive layout.
 
 
